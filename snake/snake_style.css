@@ -1,0 +1,106 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: limegreen;
+    font-size: 50px;    
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.block{
+    align-content: center;
+    align-self: center;
+}
+
+.menu_tab{
+    color: limegreen;
+    background-color: black;
+    border: 2px solid limegreen;
+    font-size: 30px;    
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    width: 33%;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: -5px; 
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.menu_tab:hover{
+    transition: all 0.5s;
+    background-color: limegreen;
+    color: black;
+}
+
+.main_text{
+    color: limegreen;
+    background-color: black;    
+    font-size: 60px;    
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: 5%;
+}
+
+.main_tab{
+    color: limegreen;
+    background-color: black;
+    border: 2px solid limegreen;
+    font-size: 30px;    
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    width: 38%;
+    min-height: 500px;
+    min-width: 500px;
+    display: inline-block;
+    padding: 10px;
+    margin: 5%;
+}
+
+img{
+    border: 2px solid limegreen;
+    margin-bottom: 80px;
+}
+
+.main_tab:hover{
+    transition: all 0.5s;    
+    background-color: limegreen;
+    color: black;
+}
+
+.game_pad{
+    margin: auto;
+    border: 2px solid limegreen;
+    width: 600px;
+}
+
+h2{
+    color: limegreen;
+    font-size: 40px;    
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.text{
+    color: limegreen;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer{
+    text-align: center;
+    color: limegreen;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
